@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarık</h1>
 <h3 align="center">A passionate Front-End Developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Movelland](https://www.movelland.com/)
+
 
 - 🌱 I’m currently learning **React NATIVE, JQuery**
 
